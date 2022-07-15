@@ -1,0 +1,14 @@
+name: Whatever-this-plugin-is
+version: 0.2
+author: Phoenix_PassiHD
+main: whatever.Main
+
+commands: 
+   fly:
+      aliases: [gfly]
+   feed:
+      aliases: [gfeed]
+   heal:
+      aliases: [gheal]
+   nuke:
+      aliases: [gnuke]

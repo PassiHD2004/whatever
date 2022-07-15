@@ -1,0 +1,42 @@
+## No Permission/Only Player
+
+# The Message a Player without the perms will receive.
+no_perm: '&c&lYou do not have the Permission to execute this Command!'
+
+# Set the Message, when trying to execute Command in console.
+no_console: '&4This command can only be executed by Players. :sadge:'
+
+## Nuke Variables
+
+# TNT Spawn Delay in Seconds
+tnt_spawn_delay: 3
+
+# TNT how far above Player spawn
+tnt_spawn_yaboveplayer: 3
+
+# TNT Fusing Time in seconds
+tnt_fusingtime: 1
+
+## Messages
+# Color Coding Messages can be achieved with "&"
+
+# Flight enabled Message
+fly_enabled: '&a&lTo Infinity AND BEYOND!!'
+
+# Flight disabled Message
+fly_disabled: '&3No more being a witch, *sad steve noises*'
+
+# Feed filled Message
+feed_filled: '&aI have conquered World Hunger!'
+
+# Feed already full Message
+feed_full: '&bI have already conquered World Hunger!'
+
+# Heal filled Message
+heal_filled: '&b&lLive longer!'
+
+# Health already full Message
+heal_full: '&f&lWelp, you can already live longer!'
+
+#Nuke Message
+nuke_msg: '&4&lNuking started'

@@ -1,0 +1,3 @@
+module whatever {
+	requires spigot;
+}
